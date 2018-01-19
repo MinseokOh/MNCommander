@@ -37,7 +37,7 @@ bash MNCommander.sh
 |   BRO  |  Bitrad.io |  https://github.com/MinseokOh/bro_qtbuild |
 |  PIVX  |    PIVX    | https://github.com/MinseokOh/pivx_qtbuild |
 |  XMCC  | MonacoCoin | https://github.com/MinseokOh/xmcc_qtbuild |
-|        |            |                                           |
+|  SCORE |    Score   |https://github.com/MinseokOh/score_qtbuild |
 |        |            |                                           |
 
 If your crypto are not on the support list, please leave an [Issue](https://github.com/MinseokOh/MNCommander/issues)
